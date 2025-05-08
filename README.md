@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Made%20With-HTML%2C%20CSS%2C%20JS-blue?style=flat-square" />
-  <img src="https://img.shields.io/github.com/M-ZohaibAli/ResumeBuilder/?style=flat-square" />
+<!--   <img src="https://img.shields.io/liscence/github.com/M-ZohaibAli/ResumeBuilder/?style=flat-square" /> -->
   <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square" />
 </p>
 
