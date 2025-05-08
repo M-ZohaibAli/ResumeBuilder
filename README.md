@@ -27,7 +27,7 @@
 
 ## 🖼️ Preview
 
-![Resume Builder Preview](https://yourimageurl.com/demo-preview.png)
+![Resume Builder Preview](https://i.ibb.co/LD6Mds4z/screencapture-127-0-0-1-5501-new-html-2025-05-09-00-42-42.png)
 
 ---
 
@@ -58,5 +58,6 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 🙌 Support
 If you like this project, give it a ⭐ on GitHub and share it with your friends!
+<!--
+<p align="center"> <img src="https://img.shields.io/github/stars/M-ZohaibAli/ResumeBuilder/?style=social" /> </p>--!> 
 
-<p align="center"> <img src="https://img.shields.io/github/stars/M-ZohaibAli/ResumeBuilder/?style=social" /> </p> ```
