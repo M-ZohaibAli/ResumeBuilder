@@ -59,4 +59,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 🙌 Support
 If you like this project, give it a ⭐ on GitHub and share it with your friends!
 
-<p align="center"> <img src="https://img.shields.io/github/stars/m-zohaibali/resume-builder?style=social" /> </p> ```
+<p align="center"> <img src="https://img.shields.io/github/stars/M-ZohaibAli/ResumeBuilder/?style=social" /> </p> ```
