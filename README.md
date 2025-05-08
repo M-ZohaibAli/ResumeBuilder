@@ -53,8 +53,7 @@ Feel free to check the issues page if you want to contribute.
 📃 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-🌐 Live Demo
-👉 Click here to try it out!
+
 
 🙌 Support
 If you like this project, give it a ⭐ on GitHub and share it with your friends!
